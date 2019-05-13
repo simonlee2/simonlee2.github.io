@@ -6,10 +6,21 @@
     <description>Recent content in Posts on Simon Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Apr 2017 23:09:34 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2019 13:51:19 -0700</lastBuildDate>
     
 	<atom:link href="https://simonlee2.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Developer Experience at Facebook F8</title>
+      <link>https://simonlee2.github.io/posts/developer-experience-at-facebook-f8/</link>
+      <pubDate>Mon, 13 May 2019 13:51:19 -0700</pubDate>
+      
+      <guid>https://simonlee2.github.io/posts/developer-experience-at-facebook-f8/</guid>
+      <description>(Originally posted on PicCollage Blog.)
+At Facebook F8, we heard first hand about everything Facebook has planned for the future — not only for its five major products but also across its open source projects. Instead of listing feature announcements, I want to talk about a concept called developer experience and what Facebook is doing to make their engineers more productive.
+Developer experience is another way of talking about user experience when the user of a software or system is a developer.</description>
+    </item>
     
     <item>
       <title>How I learned Docker and deployed a Node.js server</title>
