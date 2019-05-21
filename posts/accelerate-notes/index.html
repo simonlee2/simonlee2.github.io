@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+<head>
+  <link href="//gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="generator" content="Hugo 0.54.0" />
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Accelerate Your Team with Continuous Delivery &middot; Simon Lee</title>
+
+  
+  <link type="text/css" rel="stylesheet" href="https://simonlee2.github.io/css/print.css" media="print">
+  <link type="text/css" rel="stylesheet" href="https://simonlee2.github.io/css/poole.css">
+  <link type="text/css" rel="stylesheet" href="https://simonlee2.github.io/css/syntax.css">
+  <link type="text/css" rel="stylesheet" href="https://simonlee2.github.io/css/hyde.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface|PT+Sans:400,400i,700">
+
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="/favicon.png">
+
+  
+  <link href="" rel="alternate" type="application/rss+xml" title="Simon Lee" />
+
+  
+</head>
+
+  <body class="theme-base-08 ">
+  <aside class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      <a href="https://simonlee2.github.io/"><h1>Simon Lee</h1></a>
+      <p class="lead">
+       My thoughts and stuff 
+      </p>
+    </div>
+
+    <nav>
+      <ul class="sidebar-nav">
+        <li><a href="https://simonlee2.github.io/">Home</a> </li>
+        <li><a href="/about"> About Me </a></li><li><a href="/posts"> Posts </a></li>
+      </ul>
+    </nav>
+
+    <p>&copy; 2019. All rights reserved. </p>
+  </div>
+</aside>
+
+    <main class="content container">
+    <div class="post">
+  <h1>Accelerate Your Team with Continuous Delivery</h1>
+  <time datetime=2019-05-20T15:08:10-0700 class="post-date">Mon, May 20, 2019</time>
+  
+
+<p><img src="/accelerate-cover.jpg" alt="Accelerate" /></p>
+
+<p>In <em><a href="https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM">Accelerate</a></em>, the Nicole Forsgren, Jez Humble, and Gene Kim present the methods and results of their four-year research program. They have identified 24 key capabilities that drive improvement in software delivery performance and, in turn, organizational performance.</p>
+
+<p>They&rsquo;ve classified these capabilities into five categories:</p>
+
+<ol>
+<li>Continuous delivery</li>
+<li>Architecture</li>
+<li>Product and process</li>
+<li>Lean management and monitoring</li>
+<li>Cultural</li>
+</ol>
+
+<p>Today, we will highlight the capabilities that allow us to achieve continuous delivery.</p>
+
+<hr />
+
+<h2 id="use-version-control-for-all-production-artifacts">Use version control for all production artifacts</h2>
+
+<p>Using version control is already a common practice for software teams. Everything that&rsquo;s needed to create a production build (application code, configurations, build scripts, etc.) should be checked in under version control.</p>
+
+<h2 id="use-trunk-based-development-methods">Use trunk-based development methods</h2>
+
+<p>Trunk-based devlopment refers to the practice where the teams keep the number of active branches low and the lifetime of these branches short before merging into master. Adopting trunk-based development allows changes to be integrated with master as early as possible, which enables the team to better achieve continuous integration and continuous delivery.</p>
+
+<h2 id="automate-your-deployment-process">Automate your deployment process</h2>
+
+<p>Automate the deployment process as much as possible so that deployment becomes a trivial task.</p>
+
+<h2 id="implement-test-automation">Implement test automation</h2>
+
+<p>Developers should implement unit and UI tests that are run automatically throughout the development process. The tests should be reliable in that they should find real failures and only pass releasable code.</p>
+
+<h2 id="implememt-continuous-integration">Implememt continuous integration</h2>
+
+<p>A proper continous integration should regularly integrate code changes into the main branch and run automated test suites to check for new bugs or regressions that developer can quickly fix.</p>
+
+<h2 id="implement-continuous-delivery">Implement continuous delivery</h2>
+
+<p>Adopting continuous devliery enables the team to deploy all the latest changes at any time with little manual work. An example of this would be to deploy a build for every change on master, or to release a daily build. The team should try to keep software in a deployable state, and if it becomes undeployable, fixes are made quickly.</p>
+
+<h2 id="support-test-data-management">Support test data management</h2>
+
+<p>Ensure that there is enough test data to run automated tests and that it is easy to acquire more test data.</p>
+
+<h2 id="shift-left-on-security">Shift left on security</h2>
+
+<p>Move software security earlier in the delivery process so that any issues are avoided or resolved sooner. Integrate security practices into the software delivery lifecycle in a way that does not slow down the developemtn process.</p>
+
+<hr />
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Unlocking these capabilities for your team allows them deploy faster, more frequently, and more reliably, which, according to the research presented in the book, will improve the overall performance of your team. How many of these capabilities has you team implemented?</p>
+
+</div>
+
+
+    </main>
+
+    
+  </body>
+</html>

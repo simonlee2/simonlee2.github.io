@@ -6,10 +6,21 @@
     <description>Recent content on Simon Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 May 2019 13:51:19 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 15:08:10 -0700</lastBuildDate>
     
 	<atom:link href="https://simonlee2.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Accelerate Your Team with Continuous Delivery</title>
+      <link>https://simonlee2.github.io/posts/accelerate-notes/</link>
+      <pubDate>Mon, 20 May 2019 15:08:10 -0700</pubDate>
+      
+      <guid>https://simonlee2.github.io/posts/accelerate-notes/</guid>
+      <description>In Accelerate, the Nicole Forsgren, Jez Humble, and Gene Kim present the methods and results of their four-year research program. They have identified 24 key capabilities that drive improvement in software delivery performance and, in turn, organizational performance.
+They&amp;rsquo;ve classified these capabilities into five categories:
+ Continuous delivery Architecture Product and process Lean management and monitoring Cultural  Today, we will highlight the capabilities that allow us to achieve continuous delivery.</description>
+    </item>
     
     <item>
       <title>Developer Experience at Facebook F8</title>
