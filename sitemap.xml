@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://simonlee2.github.io/posts/wwdc19-for-ios-dev/</loc>
+    <lastmod>2019-06-17T17:09:53+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://simonlee2.github.io/posts/accelerate-notes/</loc>
     <lastmod>2019-05-20T15:08:10-07:00</lastmod>
   </url>
@@ -29,13 +34,13 @@
   
   <url>
     <loc>https://simonlee2.github.io/posts/</loc>
-    <lastmod>2019-05-20T15:08:10-07:00</lastmod>
+    <lastmod>2019-06-17T17:09:53+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://simonlee2.github.io/</loc>
-    <lastmod>2019-05-20T15:08:10-07:00</lastmod>
+    <lastmod>2019-06-17T17:09:53+08:00</lastmod>
     <priority>0</priority>
   </url>
   
